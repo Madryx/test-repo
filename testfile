@@ -4,3 +4,5 @@ feature conflict test
 
 conflict test
  master
+job-1 git integrate
+
